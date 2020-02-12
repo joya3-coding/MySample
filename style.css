@@ -831,3 +831,13 @@ footer p {
   padding-top:26px;
   font-family: 'Source Serif Pro', serif;
 }
+@media screen and (min-width:750px) and (max-width:1049px)  {
+#main {
+  height:540px;
+  width:100%;
+  background:url(images/mac1.jpg) no-repeat center bottom;
+  background-size:1049px 540px;
+  border-top:1px solid #000;
+}
+}
+  
